@@ -1,2 +1,0 @@
-# mytestproject
-new test project
